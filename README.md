@@ -96,7 +96,7 @@ hobbies:
 <summary><h2>🐍 My Contributions 🐍</h2></summary>
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SreejanPersonal/SreejanPersonal/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/saunakghosh10/saunakghosh10/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
